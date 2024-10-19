@@ -1,0 +1,15 @@
+C:\Users\nonam\source\repos\arrray-task\arrray-task\bin\Debug\net6.0\arrray-task.exe
+C:\Users\nonam\source\repos\arrray-task\arrray-task\bin\Debug\net6.0\arrray-task.deps.json
+C:\Users\nonam\source\repos\arrray-task\arrray-task\bin\Debug\net6.0\arrray-task.runtimeconfig.json
+C:\Users\nonam\source\repos\arrray-task\arrray-task\bin\Debug\net6.0\arrray-task.dll
+C:\Users\nonam\source\repos\arrray-task\arrray-task\bin\Debug\net6.0\arrray-task.pdb
+C:\Users\nonam\source\repos\arrray-task\arrray-task\obj\Debug\net6.0\arrray-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonam\source\repos\arrray-task\arrray-task\obj\Debug\net6.0\arrray-task.AssemblyInfoInputs.cache
+C:\Users\nonam\source\repos\arrray-task\arrray-task\obj\Debug\net6.0\arrray-task.AssemblyInfo.cs
+C:\Users\nonam\source\repos\arrray-task\arrray-task\obj\Debug\net6.0\arrray-task.csproj.CoreCompileInputs.cache
+C:\Users\nonam\source\repos\arrray-task\arrray-task\obj\Debug\net6.0\arrray-task.sourcelink.json
+C:\Users\nonam\source\repos\arrray-task\arrray-task\obj\Debug\net6.0\arrray-task.dll
+C:\Users\nonam\source\repos\arrray-task\arrray-task\obj\Debug\net6.0\refint\arrray-task.dll
+C:\Users\nonam\source\repos\arrray-task\arrray-task\obj\Debug\net6.0\arrray-task.pdb
+C:\Users\nonam\source\repos\arrray-task\arrray-task\obj\Debug\net6.0\arrray-task.genruntimeconfig.cache
+C:\Users\nonam\source\repos\arrray-task\arrray-task\obj\Debug\net6.0\ref\arrray-task.dll
